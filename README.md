@@ -24,7 +24,7 @@
 
 <h2>The following **optional** features are implemented:</h2>
 <ul>
-  <li>- [ ] Cards contains images in addition to or in place of text</li>
+  <li>- [N] Cards contains images in addition to or in place of text</li>
   <li>- [Y] Cards have different visual styles such as color based on their category</li>
   <li> - [Y] *visual style implemented*</li>
 </ul>
