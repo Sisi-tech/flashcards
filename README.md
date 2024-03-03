@@ -21,5 +21,12 @@
     - [Y] **Clicking the next button displays a random new card**
   </li>
 </ul>
-## Video
+
+<h2>The following **optional** features are implemented:</h2>
+<ul>
+  <li>- [ ] Cards contains images in addition to or in place of text</li>
+  <li>- [Y] Cards have different visual styles such as color based on their category</li>
+  <li> - [Y] *visual style implemented*</li>
+</ul>
+## Video Walkthrough
 <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c5d02509e2bb4360946f7c5ba94da47b-with-play.gif">
