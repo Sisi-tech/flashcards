@@ -32,6 +32,9 @@
 # Video Walkthrough
 <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3ba97c1597e247d0bbf2c6b92b7d310a-with-play.gif">
 
+https://submissions.us-east-1.linodeobjects.com/web102/a8m1bVrH.gif
+
+
 ## License
 
     Copyright [2024] [Sisi Wang]
