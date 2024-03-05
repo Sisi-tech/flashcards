@@ -6,32 +6,33 @@
 <h2>The following **required** functionality is completed:</h2>
 <ul>
   <li>
-    - [Y] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**    
+    - [x] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**    
  </li>
   <li>
-    - [Y] **A single card at a time is displayed, only showing one of the components of the information pair**
+    - [x] **A single card at a time is displayed, only showing one of the components of the information pair**
   </li>
   <li>
-    - [Y] **A list of card pairs is created**
+    - [x] **A list of card pairs is created**
   </li>
   <li>
-    - [Y] **Clicking on the card shows the corresponding component of the information pair**
+    - [x] **Clicking on the card shows the corresponding component of the information pair**
   </li>
   <li>
-    - [Y] **Clicking the next button displays a random new card**
+    - [x] **Clicking the next button displays a random new card**
   </li>
 </ul>
 
 <h2>The following **optional** features are implemented:</h2>
 <ul>
-  <li>- [N] Cards contains images in addition to or in place of text</li>
-  <li>- [Y] Cards have different visual styles such as color based on their category</li>
-  <li> - [Y] *visual style implemented*</li>
+  <li>- [x] Cards contains images in addition to or in place of text</li>
+  <li>- [x] Cards have different visual styles such as color based on their category</li>
+  <li>- [x] *visual style implemented*</li>
 </ul>
 
 # Video Walkthrough
 <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3ba97c1597e247d0bbf2c6b92b7d310a-with-play.gif">
 
+## GIF
 https://submissions.us-east-1.linodeobjects.com/web102/a8m1bVrH.gif
 
 
